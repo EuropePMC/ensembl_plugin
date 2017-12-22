@@ -1,0 +1,135 @@
+.rhsmain {
+    width: 450px;
+    overflow: hidden;
+}
+
+.rhs_match h2 {
+    color: #999;
+    font-size: 18px;
+    margin: 0;
+}
+
+.rhs_left {
+    height: 127px;
+    width: 160px;
+    float: left;
+    position: absolute;
+}
+
+.rhs_right {
+    height: 125px;
+    width: 287px;
+    float: right;
+    position: relative;
+    margin-top: 2px;
+}
+
+.rhs_type {
+    vertical-align: middle;
+    line-height: 24px;
+    text-align: center;
+    padding-right: 8px;
+    font-weight: bold;
+    height: 24px;
+    background: #ddd;
+}
+
+.rhs_name {
+    font-size: 36px;
+    font-weight: bold;
+    vertical-align: top;
+    line-height: 40px;
+    text-align: center;
+    margin-right: 4px;
+    color: #444;
+    height: 40px;
+}
+
+
+.rhs_match {
+    vertical-align: top;
+    text-align: center;
+    padding-right: 8px;
+    font-weight: bold;
+}
+.rhs_source {
+    max-height: 32px;
+    font-size: 10px;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.rhs_right {
+    height: 125px;
+    width: 287px;
+    float: right;
+    position: relative;
+    margin-top: 2px;
+}
+
+.rhs_top {
+    height: 60px;
+}
+
+.rhs_biotype {
+    height: 25px;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 25px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.rhs_desc {
+    height: 40px;
+    font-size: 14px;
+    font-style: italic;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 6px;
+    text-align: center;
+    width: 100%;
+    vertical-align: middle;
+    line-height: 40px;
+}
+
+.rhs_species {
+    height: 60px;
+    width: 60px;
+    float: left;
+}
+
+.rhs_canvas {
+    height: 60px;
+    width: 227px;
+    float: right;
+}
+
+.rhs {
+  font-family: Luxi Sans,Helvetica,Arial,Geneva,sans-serif;
+  font-size: 13px;
+  color: #555;
+}
+
+.was_wrapped {
+  line-height: 1em;
+  font-size: 32px;
+  word-wrap: break-word;
+}
+
+.rhs_species img {
+    width: 58px;
+    height: 58px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.rhs_canvas_holder {
+  margin: 0 2px 0 2px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  height: 58px;
+}
